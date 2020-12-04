@@ -21,7 +21,7 @@ After logging into the dashboard, you can [add a bot](https://bots.rovelstars.ga
 **Fill in the Form and Post**
 
 Your bot has now been added to the approval queue!
-Please be patient, and if you have correctly followed the [Bot Guidelines](/guidelines) your bot may be accepted.
+Please be patient, and if you have correctly followed the [Bot Guidelines](/rovel-bot-list/guidelines) your bot may be accepted.
 
 ## Step 4
 **Make sure you don't block our official RBL bot**
@@ -30,4 +30,4 @@ This bot is the one and only bot which works alongside and for RBL, and if you w
 
 
 
-*NOTE:* If your bot follows all the rules mentioned [here](/best-practices) there will be 99% of chance of being approved on our bot list.
+*NOTE:* If your bot follows all the rules mentioned [here](/rovel-bot-list/best-practices) there will be 99% of chance of being approved on our bot list.
