@@ -16,5 +16,5 @@ Here are some projects, that we are sure you'll ♥️.
 - [Rovel Status](https://status.rovelstars.ga)
 
 ![Style](https://img.shields.io/static/v1?label=made%20with&message=style&color=red&style=for-the-badge&logo=Awesome%20Lists&logoColor=red)
-[https://discord.gg/953XCpHbKF](![Discord](https://img.shields.io/discord/602906543356379156?color=%237289da&label=chat%20with%20us&logo=discord&style=for-the-badge))
+![https://discord.gg/953XCpHbKF](https://img.shields.io/discord/602906543356379156?color=%237289da&label=chat%20with%20us&logo=discord&style=for-the-badge)
 
