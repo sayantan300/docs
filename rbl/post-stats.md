@@ -24,7 +24,7 @@ guildCount | Number
 ### JavaScript
 `Browser`
 
-```
+```js
 const botId = '1345678910'; // your bot Snowflake ID
 const botAPIToken = 'b344b2d1-8fd0-4ef7-b7d8-1567d4e337c7'; // your bot API token
 
@@ -43,7 +43,7 @@ Make sure to update the code's guild count by recieving guild count from your di
 
 ### NodeJS
 
-```
+```js
 const fetch = require('node-fetch');
 ```
 
@@ -53,7 +53,7 @@ See [JavaScript Implementation](docs/post-stats/#javascript) above.
 
 ### Python
 
-```
+```py
 import requests
 
 url = "https://bots.rovelstars.ga/api/v1/bots/[bot-id]/stats"
