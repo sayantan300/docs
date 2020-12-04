@@ -14,14 +14,14 @@ Make sure you are in the [ROVEL STARS Discord Server](https://discord.gg/Rf3xPMm
 **Add a Bot**
 [Login]([https://bots.rovelstars.ga/login) to the RBL Dashboard to your server.
 This will redirect you to a Discord oauth link which should auto login to RBL, with your currently logged-in Discord account.
-After logging into the dashboard, you can [add a bot](/dashboard/bots/new) by clicking on the '+' icon.
+After logging into the dashboard, you can [add a bot](https://bots.rovelstars.ga/dashboard/bots/new) by clicking on the '+' icon.
 
 
 ## Step 3
 **Fill in the Form and Post**
 
 Your bot has now been added to the approval queue!
-Please be patient, and if you have correctly followed the [Bot Guidelines](/docs/guidelines) your bot may be accepted.
+Please be patient, and if you have correctly followed the [Bot Guidelines](/guidelines) your bot may be accepted.
 
 ## Step 4
 **Make sure you don't block our official RBL bot**
