@@ -1,7 +1,3 @@
-<title>API</title>
-<description>Interact with RBL through HTTP requests.</description>
-<url>api</url>
-
 # API
 - Interact with RBL through HTTP requests
 

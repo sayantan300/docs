@@ -1,7 +1,3 @@
-<title>Post Stats</title>
-<description>A guide to show how to post stats to the RBL API, in lots of popular programming languages.</description>
-<url>post-stats</url>
-
 # Post Stats
 Here are examples of posting bot stats to the RBL API.
 

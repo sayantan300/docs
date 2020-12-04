@@ -1,7 +1,3 @@
-<title>Get Started</title>
-<description>How to get started with RBL.</description>
-<url>get-started</url>
-
 # Get Started
 This guide will show you how to get started with RBL, and add a bot.
 

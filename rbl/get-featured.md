@@ -1,7 +1,3 @@
-<title>Get Featured</title>
-<description>How to get your bot listing featured and the steps it will take.</description>
-<url>get-featured</url>
-
 # Get Featured
 
 

@@ -1,7 +1,3 @@
-<title>Best Practices for your Discord Bot</title>
-<description>We try to provide you the best practices for your bot so it gets popular!</description>
-<url>best-practices</url>
-
 # Best practices for Discord bots
 
 1. **Commands should be explicitly invoked**. Bots should not activate on
