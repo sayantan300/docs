@@ -7,7 +7,7 @@ This guide will show you how to get started with RBL, and add a bot.
 
 ## Step 1
 **Join the RBL Server**
-Make sure you are in the [ROVEL STARS Discord Server](https://discord.gg/Rf3xPMm) to enable you to add a bot.
+Make sure you are in the [ROVEL STARS Discord Server](https://discord.gg/953XCpHbKF) to enable you to add a bot.
 
 
 ## Step 2
