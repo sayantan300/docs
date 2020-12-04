@@ -12,7 +12,7 @@ Make sure you are in the [ROVEL STARS Discord Server](https://discord.gg/953XCpH
 
 ## Step 2
 **Add a Bot**
-[Login]([https://bots.rovelstars.ga/login) to the RBL Dashboard to your server.
+[Login](https://bots.rovelstars.ga/login) to the RBL Dashboard to your server.
 This will redirect you to a Discord oauth link which should auto login to RBL, with your currently logged-in Discord account.
 After logging into the dashboard, you can [add a bot](https://bots.rovelstars.ga/dashboard/bots/new) by clicking on the '+' icon.
 
@@ -30,4 +30,4 @@ This bot is the one and only bot which works alongside and for RBL, and if you w
 
 
 
-*NOTE:* If your bot follows all the rules mentioned [here](https://bots.rovelstars.ga/docs/best-practices) there will be 99% of chance of being approved on our bot list.
+*NOTE:* If your bot follows all the rules mentioned [here](/best-practices) there will be 99% of chance of being approved on our bot list.
